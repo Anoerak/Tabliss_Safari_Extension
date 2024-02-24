@@ -22,7 +22,12 @@ Build the prject (⌘ + B).
 
 Run the project (⌘ + R).
 
-Accept and install the extension in Safari.
+Activate the developer menu in Safari by going to `Safari > Settings > Advanced` and checking the `Show Develop menu in menu bar` option.
+
+Go to `Safari > Settings > Develop > Allow Unsigned Extensions`.
+
+Go to `Develop > Show Extension Builder`.
+
 
 ## Translations
 
